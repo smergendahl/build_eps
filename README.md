@@ -1,5 +1,5 @@
 # build_eps
-This package allows a user to create an .eps file from a .dia file for use in Latex.
+This package allows a user to integrate Latex into a .dia file and create an corresponding .eps file.
 
 1. Place diafile in `../ directory of build_eps/`
 2. Export diafile as Latex pgf macros (.tex)
